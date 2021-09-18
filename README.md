@@ -1,6 +1,9 @@
 # Classroom-using-Metaverse 🏫
 
-  Team Project from Sofware Engineering
+2021 Fall SWE3002_41
+
+Team Project from class Introduction to Sofware Engineering
+
 
 <br>
 
