@@ -5,6 +5,14 @@
 Team Project from class Introduction to Sofware Engineering
 
 
+
+<br>
+
+## Overview
+
+
+
+
 <br>
 
 ## Team13 Members 🧀 
@@ -22,3 +30,13 @@ Team Project from class Introduction to Sofware Engineering
 👉 Ngzhiwei
 
 👉 Jeong-Ah-Lee
+
+
+<br>
+
+## Structure 🧀 
+
+```
+
+
+```
