@@ -39,10 +39,11 @@
 
 2.	금요일
   -	중간 점검 (특히 Background, Goal, 개발 이후 Plan&Effect 부분의 조사는 완료하여 PPT 담당 학생들에게 넘기기)
+  - 세부 서비스에 대한 점검
 
 
 
-<< 4주차 회의 정리 >>
+<< 4주차 회의(수) 정리 >>
 
 1. 프로젝트 방향 설정
 - 주제 : Hub for Student Campus Life
