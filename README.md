@@ -1,4 +1,4 @@
-# Classroom-using-Metaverse 🏫
+# Hub-for-Students-Campus-Life 🏫
 
 2021 Fall SWE3002_41
 
