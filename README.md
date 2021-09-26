@@ -1,4 +1,4 @@
-# Hub-for-Students-Campus-Life 🏫
+# The-Campus-Hub 🏫
 
 2021 Fall SWE3002_41
 
