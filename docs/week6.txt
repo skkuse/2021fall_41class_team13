@@ -1,0 +1,10 @@
+< 6주차 회의 일정 및 공지 >>
+
+-	미리 전달한 requirement specification 예시들 확인하고 오기
+
+[일정] 
+21.10.13 (수) 22:00~  //정기 회의시간
+
+[회의 내용]
+1. specification 예시 기반으로 contents structure 구성
+2. 역할 분배
