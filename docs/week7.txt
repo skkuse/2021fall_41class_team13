@@ -1,0 +1,28 @@
+[7주차 회의 정리]
+
+- Requirements Specification에 들어갈 내용 피드백
+  : 추후에 필요하면 추가
+
+- 1차 작성 
+  
+  (1) 기한
+      : 가능한 사람들은 ~10/16(토), 과제로 불가피한 경우 ~10/17(일)까지 정리
+  
+  (2) 구글 dox 공유
+  
+  (3) 3장, 5장 내용 중심으로 역할 분배 
+      
+      * 3.1 Interface -> 이강민, 한상민
+      * 3.2 Product Function 정리 -> 이정아
+      * 3.3 User characteristics-> 윤소희
+      * 3.4, Constraint 3.5 Assumption and Dependency -> 응즈웨이
+      * 5 Evolution -> 허종원
+      * 취합 후 정리 -> 오나현
+      
+  (4) 피드백
+      : ~10/17 (일)
+      
+- 4장 내용 작성은 피드백 반영 후 분배
+
+- 1장, 6장은 마지막 정리할 때 최종 완성
+
