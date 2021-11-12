@@ -19,7 +19,7 @@ Team Project from class Introduction to Sofware Engineering
 
 👉 Na-Hyeon-Oh   [ Team-Leader ]
 
-👉 Gang-Min-Lee
+👉 Kang-Min-Lee
 
 👉 Sang-Min-Han
 
